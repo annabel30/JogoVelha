@@ -1,0 +1,88 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.jogo {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    margin: 30px;
+    margin-left: 38.5vw;
+}
+
+.quadrado1 {
+    border: 2px;
+    border-color: purple;
+    border-style: solid;
+    grid-column: 1 1;
+    grid-row: 1 1;
+}
+
+.quadrado2 {
+    border: 2px;
+    border-color: purple;
+    border-style: solid;
+    grid-column: 2 2;
+    grid-row: 1 1;
+}
+
+.quadrado3 {
+    border: 2px;
+    border-color: purple;
+    border-style: solid;
+    grid-column: 3 3;
+    grid-row: 1 1;
+}
+
+.quadrado4 {
+    border: 2px;
+    border-color: purple;
+    border-style: solid;
+    grid-column: 1 1;
+    grid-row: 2 2;
+}
+
+.quadrado5 {
+    border: 2px;
+    border-color: purple;
+    border-style: solid;
+    grid-column: 2 2;
+    grid-row: 2 2;
+}
+
+.quadrado6 {
+    border: 2px;
+    border-color: purple;
+    border-style: solid;
+    grid-column: 3 3;
+    grid-row: 2 2;
+}
+
+.quadrado7 {
+    border: 2px;
+    border-color: purple;
+    border-style: solid;
+    grid-column: 1 1;
+    grid-row: 3 3;
+}
+
+.quadrado8 {
+    border: 2px;
+    border-color: purple;
+    border-style: solid;
+    grid-column: 2 2;
+    grid-row: 3 3;
+}
+
+.quadrado9 {
+    border: 2px;
+    border-color: purple;
+    border-style: solid;
+    grid-column: 3 3;
+    grid-row: 3 3;
+}
+
+img {
+    width: 100px;
+}
